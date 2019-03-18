@@ -1,7 +1,7 @@
 # encoding=utf-8
-# flyscoot,TR，web端
+# flyscoot,TR，手机端WAF防火墙反爬，已停用
 # by hyn
-# 2019-03-18
+# 2018-12-22
 
 import scrapy
 import json, logging
@@ -15,7 +15,7 @@ from datetime import datetime, timedelta
 
 # 传入机场
 class TrSpider(scrapy.Spider):
-    name = 'tr'
+    name = 'old_tr'
     allowed_domains = ['flyscoot.com']
     task = []
     isOK = True
@@ -24,7 +24,7 @@ class TrSpider(scrapy.Spider):
 
         DOWNLOADER_MIDDLEWARES={
             'spiders_hyn.middlewares.StatisticsItem': 400,
-            'spiders_hyn.middlewares.Trmiddlewares': 300
+            'spiders_hyn.middlewares.TrSpiderGetsession': 300
         },
         DEFAULT_REQUEST_HEADERS={
             'User-Agent': 'OS=Android;OSVersion=6.0.1;AppVersion=2.0.2;DeviceModel=XiaomiMI4LTE;',
