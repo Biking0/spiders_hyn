@@ -1,0 +1,4 @@
+requests==2.18.4
+jsonpath==0.75
+python-dateutil==2.7.2
+scrapy==1.5.1

@@ -1,0 +1,274 @@
+{
+    "BKIICN": [
+        78.14, 
+        "USD"
+    ], 
+    "BKIPUS": [
+        78.14, 
+        "USD"
+    ], 
+    "BKKCJU": [
+        1703.0, 
+        "THB"
+    ], 
+    "BKKICN": [
+        1703.0, 
+        "THB"
+    ], 
+    "BKKPUS": [
+        1703.0, 
+        "THB"
+    ], 
+    "CJJCJU": [
+        7300.0, 
+        "KRW"
+    ], 
+    "CJJCTS": [
+        29700.0, 
+        "KRW"
+    ], 
+    "CJJKIX": [
+        28600.0, 
+        "KRW"
+    ], 
+    "CJJPVG": [
+        28600.0, 
+        "KRW"
+    ], 
+    "CJJSHE": [
+        26400.0, 
+        "KRW"
+    ], 
+    "CJJTPE": [
+        29700.0, 
+        "KRW"
+    ], 
+    "CJJYNJ": [
+        29700.0, 
+        "KRW"
+    ], 
+    "CJUBKK": [
+        33700.0, 
+        "KRW"
+    ], 
+    "CJUCJJ": [
+        7300.0, 
+        "KRW"
+    ], 
+    "CJUGMP": [
+        7300.0, 
+        "KRW"
+    ], 
+    "CJUKUV": [
+        7300.0, 
+        "KRW"
+    ], 
+    "CJUPUS": [
+        7300.0, 
+        "KRW"
+    ], 
+    "CJUTPE": [
+        28600.0, 
+        "KRW"
+    ], 
+    "CTSCJJ": [
+        3210.0, 
+        "JPY"
+    ], 
+    "CTSICN": [
+        3210.0, 
+        "JPY"
+    ], 
+    "CTSPUS": [
+        3210.0, 
+        "JPY"
+    ], 
+    "DADICN": [
+        52.0, 
+        "USD"
+    ], 
+    "FUKICN": [
+        3150.0, 
+        "JPY"
+    ], 
+    "GMPCJU": [
+        7300.0, 
+        "KRW"
+    ], 
+    "GMPTSA": [
+        34700.0, 
+        "KRW"
+    ], 
+    "HANICN": [
+        57.0, 
+        "USD"
+    ], 
+    "HKGICN": [
+        391.0, 
+        "HKD"
+    ], 
+    "IBRICN": [
+        2700.0, 
+        "JPY"
+    ], 
+    "ICNBKI": [
+        37000.0, 
+        "KRW"
+    ], 
+    "ICNBKK": [
+        38700.0, 
+        "KRW"
+    ], 
+    "ICNCTS": [
+        34700.0, 
+        "KRW"
+    ], 
+    "ICNDAD": [
+        37000.0, 
+        "KRW"
+    ], 
+    "ICNFUK": [
+        32500.0, 
+        "KRW"
+    ], 
+    "ICNHAN": [
+        37000.0, 
+        "KRW"
+    ], 
+    "ICNHKG": [
+        35800.0, 
+        "KRW"
+    ], 
+    "ICNIBR": [
+        34700.0, 
+        "KRW"
+    ], 
+    "ICNKIX": [
+        33600.0, 
+        "KRW"
+    ], 
+    "ICNKMI": [
+        33600.0, 
+        "KRW"
+    ], 
+    "ICNKOJ": [
+        33600.0, 
+        "KRW"
+    ], 
+    "ICNNRT": [
+        34700.0, 
+        "KRW"
+    ], 
+    "ICNOKA": [
+        34700.0, 
+        "KRW"
+    ], 
+    "ICNPPS": [
+        33700.0, 
+        "KRW"
+    ], 
+    "ICNTPE": [
+        34700.0, 
+        "KRW"
+    ], 
+    "ICNVVO": [
+        50800.0, 
+        "KRW"
+    ], 
+    "KIXCJJ": [
+        5220.0, 
+        "JPY"
+    ], 
+    "KIXICN": [
+        5220.0, 
+        "JPY"
+    ], 
+    "KIXPUS": [
+        5220.0, 
+        "JPY"
+    ], 
+    "KMIICN": [
+        2180.0, 
+        "JPY"
+    ], 
+    "KOJICN": [
+        2180.0, 
+        "JPY"
+    ], 
+    "KUVCJU": [
+        7300.0, 
+        "KRW"
+    ], 
+    "NRTICN": [
+        4790.0, 
+        "JPY"
+    ], 
+    "OKAICN": [
+        3180.0, 
+        "JPY"
+    ], 
+    "PPSICN": [
+        0, 
+        "USD"
+    ], 
+    "PUSBKI": [
+        32000.0, 
+        "KRW"
+    ], 
+    "PUSBKK": [
+        33700.0, 
+        "KRW"
+    ], 
+    "PUSCJU": [
+        7300.0, 
+        "KRW"
+    ], 
+    "PUSCTS": [
+        29700.0, 
+        "KRW"
+    ], 
+    "PUSKIX": [
+        27500.0, 
+        "KRW"
+    ], 
+    "PUSVVO": [
+        46900.0, 
+        "KRW"
+    ], 
+    "PVGCJJ": [
+        340.0, 
+        "CNY"
+    ], 
+    "SHECJJ": [
+        225.0, 
+        "CNY"
+    ], 
+    "TPECJJ": [
+        701.0, 
+        "TWD"
+    ], 
+    "TPECJU": [
+        701.0, 
+        "TWD"
+    ], 
+    "TPEICN": [
+        701.0, 
+        "TWD"
+    ], 
+    "TSAGMP": [
+        701.0, 
+        "TWD"
+    ], 
+    "VVOICN": [
+        43.0, 
+        "EUR"
+    ], 
+    "VVOPUS": [
+        43.0, 
+        "EUR"
+    ], 
+    "YNJCJJ": [
+        340.0, 
+        "CNY"
+    ]
+}

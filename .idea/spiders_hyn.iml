@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 2.7" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="jq" />
+    <orderEntry type="module" module-name="wn_spider" />
+    <orderEntry type="module" module-name="test" />
+    <orderEntry type="module" module-name="host_monitor" />
+    <orderEntry type="module" module-name="lmd_spiders" />
+    <orderEntry type="module" module-name="check_ticket" />
+    <orderEntry type="module" module-name="wn_spider" />
+    <orderEntry type="module" module-name="wn_spider" />
+    <orderEntry type="module" module-name="spiders_wsc" />
+    <orderEntry type="module" module-name="cityport" />
+    <orderEntry type="module" module-name="spiders_wsc" />
+    <orderEntry type="module" module-name="test" />
+    <orderEntry type="module" module-name="wn_spider" />
+    <orderEntry type="module" module-name="lamudatech_dev" />
+    <orderEntry type="module" module-name="flybe" />
+    <orderEntry type="module" module-name="mitm" />
+    <orderEntry type="module" module-name="mitm" />
+    <orderEntry type="module" module-name="wn_spider" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="projectConfiguration" value="pytest" />
+    <option name="PROJECT_TEST_RUNNER" value="pytest" />
+  </component>
+</module>
